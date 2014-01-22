@@ -1,4 +1,4 @@
-// Problem 0: join two files
+// Problem 0: join two files split with example from the tutorial part 2
 
 use std::os;
 use std::io::File;
